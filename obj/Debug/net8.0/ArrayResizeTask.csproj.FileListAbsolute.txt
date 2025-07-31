@@ -1,0 +1,15 @@
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\ArrayResizeTask\bin\Debug\net8.0\ArrayResizeTask.exe
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\ArrayResizeTask\bin\Debug\net8.0\ArrayResizeTask.deps.json
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\ArrayResizeTask\bin\Debug\net8.0\ArrayResizeTask.runtimeconfig.json
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\ArrayResizeTask\bin\Debug\net8.0\ArrayResizeTask.dll
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\ArrayResizeTask\bin\Debug\net8.0\ArrayResizeTask.pdb
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\ArrayResizeTask\obj\Debug\net8.0\ArrayResizeTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\ArrayResizeTask\obj\Debug\net8.0\ArrayResizeTask.AssemblyInfoInputs.cache
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\ArrayResizeTask\obj\Debug\net8.0\ArrayResizeTask.AssemblyInfo.cs
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\ArrayResizeTask\obj\Debug\net8.0\ArrayResizeTask.csproj.CoreCompileInputs.cache
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\ArrayResizeTask\obj\Debug\net8.0\ArrayResizeTask.sourcelink.json
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\ArrayResizeTask\obj\Debug\net8.0\ArrayResizeTask.dll
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\ArrayResizeTask\obj\Debug\net8.0\refint\ArrayResizeTask.dll
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\ArrayResizeTask\obj\Debug\net8.0\ArrayResizeTask.pdb
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\ArrayResizeTask\obj\Debug\net8.0\ArrayResizeTask.genruntimeconfig.cache
+C:\Users\dilsa\OneDrive\Masaüstü\VSrep\ArrayResizeTask\obj\Debug\net8.0\ref\ArrayResizeTask.dll
